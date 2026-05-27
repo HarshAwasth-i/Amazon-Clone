@@ -15,7 +15,7 @@ A responsive Amazon homepage clone built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ! Project Purpose
-This project was built to improve my frontend development skills and practice responsive web design.
+This project was built to improve my frontend development skills and practice responsive web design by creating a clone of Amazon site.
 
 ! Future Improvements
 - Add authentication
